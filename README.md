@@ -1,4 +1,6 @@
-# Formance Helm charts
+# Formance Helm charts 
+This deployment method is currently in __Beta__
+
 
 ## Installation
 helm-docs can be installed using homebrew:
